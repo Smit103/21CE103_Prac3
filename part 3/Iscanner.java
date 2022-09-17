@@ -1,0 +1,3 @@
+interface Iscanner{
+    void iscan();
+}
